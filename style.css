@@ -252,14 +252,16 @@ footer{
     
     
 }
-    .footer{
-        width:95%;
-    }
-    .footer-content{
-        width: 95%;
-        text-align: center;
-        padding: 2rem;
-    }
+   footer{
+ background-color: #999;
+    padding: 4rem ;
+   
+}
+.footer-content{
+    width: 100%;
+    
+    
+}
     .footer-cool{
         display: flex;
         flex-direction: column;
